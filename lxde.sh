@@ -27,4 +27,3 @@ echo "===================================="
 echo "Don't close tab colab to keep rdp running 12 hours"
 echo "👉Keep support akuh.net thank you👈"
 echo "===================================="
-sleep 9876543210
